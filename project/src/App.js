@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import ImageGallery from '../components/imagegallery';
+import ImageGallery from './imagegallery';
 function App() {
   return (
     <div className="App">
