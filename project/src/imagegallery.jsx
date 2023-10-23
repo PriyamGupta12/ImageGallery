@@ -5,8 +5,8 @@ function ImageGallery(){
         <div>
             <div className="gallery">
                 <div>
-             <span><img src="Pic1" id="nextBtn" ></img></span>
-             <span><img src="Untitled" id="nextBtn" ></img></span>
+             <span><img src="Pic1" id="img1" ></img></span>
+             <span><img src="Untitled" id="img1" ></img></span>
              </div>
              </div>
         </div>
